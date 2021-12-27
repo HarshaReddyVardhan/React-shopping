@@ -1,6 +1,6 @@
-import logo from './logo.svg';
-import './App.css';
-import ExpenseItem from './components/ExpenseItem';
+import logo from "./logo.svg";
+import "./App.css";
+import ExpenseItem from "./components/ExpenseItem";
 
 function App() {
   return (
@@ -17,7 +17,6 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Fastly/slowly
         </a>
       </header>
     </div>
