@@ -4,10 +4,11 @@ import ExpenseItem from "./components/ExpenseItem";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div>
+      <header className="App">
         <h1> My react App</h1>
       </header>
+      <ExpenseItem></ExpenseItem>
     </div>
   );
 }
